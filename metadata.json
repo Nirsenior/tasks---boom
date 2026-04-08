@@ -1,0 +1,5 @@
+{
+  "name": "Zenith Tasks",
+  "description": "A Slack-inspired task management workspace featuring a powerful sidebar, list/board views, and keyboard-first productivity without the noise of chat.",
+  "requestFramePermissions": []
+}
